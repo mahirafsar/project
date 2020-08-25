@@ -1,4 +1,4 @@
-public class Adder extends Arithmetic{
+class Adder extends Arithmetic{
 	
 	Adder(){
 		
